@@ -1,34 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">FANARUTO — AI, automation and connected hardware</title>
-<desc id="desc">A dark engineering notebook with a circuit diagram. Building beyond the chatbox.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111e30"/><stop offset="1" stop-color="#080e17"/></linearGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#233148" stroke-width=".7"/></pattern>
-</defs>
-<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#26344a"/>
-<rect x="780" y="20" width="400" height="320" fill="url(#grid)" opacity=".48"/>
-<path d="M44 46H74" stroke="#91f5cf" stroke-width="4"/>
-<text x="88" y="52" fill="#91f5cf" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="3">PERSONAL LAB</text>
-<text x="44" y="157" fill="#f3f6fa" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="700" letter-spacing="-3">FANARUTO</text>
-<text x="48" y="210" fill="#c4cedc" font-family="Arial,Helvetica,sans-serif" font-size="30">Building beyond the chatbox.</text>
-<path d="M48 247H714" stroke="#2a3b51"/>
-<text x="48" y="289" fill="#90a4bc" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" letter-spacing="1">AI / AUTOMATION / CONNECTED HARDWARE</text>
-<g fill="none" stroke="#365168" stroke-width="2">
-  <path d="M820 80H904V122M1040 75V122H1110V180M814 266H886V226M1058 280V236H1124V222"/>
-  <path d="M850 174H911M1010 174H1082M960 106V125M960 223V258"/>
-  <rect x="910" y="125" width="100" height="98" rx="16"/>
-</g>
-<g fill="#101e2d" stroke="#91f5cf" stroke-width="2">
-  <circle cx="820" cy="80" r="7"/><circle cx="1040" cy="75" r="7"/>
-  <circle cx="814" cy="266" r="7"/><circle cx="1058" cy="280" r="7"/>
-  <circle cx="850" cy="174" r="5"/><circle cx="1082" cy="174" r="5"/>
-</g>
-<path d="M939 161L927 174L939 187M981 161L993 174L981 187M968 155L952 193" fill="none" stroke="#91f5cf" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M960 106V125M1010 174H1082M904 122V137" fill="none" stroke="#91f5cf" stroke-width="2"/>
-<circle cx="1110" cy="180" r="4" fill="#536b83"/>
-<circle cx="1124" cy="222" r="4" fill="#536b83"/>
-<circle cx="886" cy="226" r="4" fill="#536b83"/>
-<circle cx="960" cy="258" r="4" fill="#536b83"/>
-<text x="872" y="316" fill="#60768c" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2">IDEA → SOFTWARE → DEVICE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">fanaruto</title>
+  <desc id="desc">AI, automation and hardware. Black typography and restrained primary geometries on warm paper.</desc>
+  <rect width="1200" height="400" fill="#f2efe7"/>
+  <text x="64" y="194" fill="#151515" font-family="Helvetica,Arial,sans-serif" font-size="120" font-weight="700" letter-spacing="-6">fanaruto</text>
+  <text x="70" y="249" fill="#151515" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="2.2">AI / AUTOMATION / HARDWARE</text>
+  <path d="M840 64V336" fill="none" stroke="#151515" stroke-width="2"/>
+  <path d="M1044 64L1112 132H1044Z" fill="#dfb32b"/>
+  <rect x="944" y="132" width="32" height="172" fill="#cc3a2c"/>
+  <circle cx="1078" cy="278" r="43" fill="#24518e"/>
 </svg>
