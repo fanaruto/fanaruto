@@ -1,4 +1,4 @@
-<img src="./banner.svg?v=bauhaus" width="100%" alt="fanaruto — AI / Automation / Hardware" />
+<img src="https://raw.githubusercontent.com/fanaruto/fanaruto/f86bc16d1a491a9f68f772355e85fb4e37b9a7be/banner.svg" width="100%" alt="fanaruto — AI / Automation / Hardware" />
 
 <br />
 
